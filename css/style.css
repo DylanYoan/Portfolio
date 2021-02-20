@@ -15,3 +15,7 @@ body {
 
     
 }
+
+li:hover {
+    background: #ccc;
+}
