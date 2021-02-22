@@ -19,3 +19,9 @@ body {
 li:hover {
     background: #ccc;
 }
+
+/* Footer */
+
+.footer {
+    background: coral;
+}
